@@ -60,6 +60,7 @@ ___
 
 ### 💬 Dev Quote
 > "First, solve the problem. Then, write the code." 💻 -->
+<div align="center">
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">🚀 Full Stack Developer | India</h3>
 
