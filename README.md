@@ -22,18 +22,6 @@
 <img src="https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,html,css,git,github,vscode" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ghostcoderraj&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ghostcoderraj&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ### 🔥 GitHub Streak
 
 <p align="center">
@@ -48,6 +36,12 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghostcoderraj&theme=tokyo-night" />
 </p>
 
+---
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ghostcoderraj&theme=radical&no-frame=true&margin-w=15"/>
+</p>
 ---
 
 ### 🐍 Snake Contribution Animation
@@ -87,5 +81,4 @@
 ---
 
 ### 💬 Dev Quote
-
-> "First, solve the problem. Then, write the code." – John Johnson
+⭐ **Thanks for visiting my GitHub profile!**
