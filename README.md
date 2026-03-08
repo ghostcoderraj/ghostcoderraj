@@ -38,6 +38,8 @@
 
 ---
 
+## github matrices
+![Metrics](https://raw.githubusercontent.com/ghostcoderraj/ghostcoderraj/main/github-metrics.svg)
 
 
 ### 🐍 Snake Contribution Animation
