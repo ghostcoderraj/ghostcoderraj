@@ -25,14 +25,13 @@
 
 ---
 
-# 📊 GitHub Stats
-
 <div align="center">
 
 <h2>📊 GitHub Stats</h2>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghostcoderraj&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostcoderraj&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ghostcoderraj&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ghostcoderraj&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
