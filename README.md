@@ -41,9 +41,7 @@ ___
 </p>
 
 ### 🐍 Snake Contribution Animation
-
 ![Snake animation](https://github.com/ghostcoderraj/ghostcoderraj/blob/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 ### 🌐 Connect With Me
