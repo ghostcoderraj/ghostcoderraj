@@ -40,8 +40,10 @@ ___
 <img src="https://komarev.com/ghpvc/?username=ghostcoderraj&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 ### 🐍 Snake Contribution Animation
+
 ![Snake animation](https://github.com/ghostcoderraj/ghostcoderraj/blob/output/github-contribution-grid-snake-dark.svg)
----
+
+___
 
 ### 🌐 Connect With Me
 
