@@ -8,8 +8,9 @@
 
 ---
 
-# 👨‍💻 About Me
 <div align="center">
+# 👨‍💻 About Me
+
 - 💻 Full Stack Developer  
 - 🚀 Building scalable web applications  
 - 🌱 Currently learning **Advanced Backend Development**  
