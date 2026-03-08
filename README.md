@@ -39,10 +39,6 @@ ___
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ghostcoderraj&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghostcoderraj&theme=tokyonight)
-
 
 ### 🐍 Snake Contribution Animation
 
