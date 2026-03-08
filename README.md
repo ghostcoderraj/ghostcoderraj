@@ -29,7 +29,9 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<img src="https://gh-stats-gen.vercel.app/api?username=ghostcoderraj&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ghostcoderraj&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostcoderraj&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 
 </div>
 
