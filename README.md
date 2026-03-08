@@ -35,24 +35,18 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghostcoderraj&theme=tokyo-night" />
 </p>
-
----
-
-## github matrices
-![Metrics](https://raw.githubusercontent.com/ghostcoderraj/ghostcoderraj/main/github-metrics.svg)
-
-
-### 🐍 Snake Contribution Animation
-
-![Snake animation](https://github.com/ghostcoderraj/ghostcoderraj/blob/output/github-contribution-grid-snake-dark.svg)
-
----
+___
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ghostcoderraj&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghostcoderraj&theme=tokyonight)
+
+
+### 🐍 Snake Contribution Animation
+
+![Snake animation](https://github.com/ghostcoderraj/ghostcoderraj/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 ## 🌐 3D Contribution Graph
@@ -79,4 +73,4 @@
 ---
 
 ### 💬 Dev Quote
-⭐ **Thanks for visiting my GitHub profile!**
+> "First, solve the problem. Then, write the code." 💻
