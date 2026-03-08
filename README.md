@@ -53,22 +53,13 @@
 ![Snake animation](https://github.com/ghostcoderraj/ghostcoderraj/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ghostcoderraj&theme=radical&no-frame=true&margin-w=15)
-
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostcoderraj&show_icons=true&theme=tokyonight)
-
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ghostcoderraj&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghostcoderraj&theme=tokyonight)
+
 ---
 ## 🌐 3D Contribution Graph
 
