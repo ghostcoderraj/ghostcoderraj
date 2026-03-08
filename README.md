@@ -29,9 +29,7 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ghostcoderraj&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ghostcoderraj&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://gh-stats-gen.vercel.app/api?username=ghostcoderraj&theme=tokyonight" />
 
 </div>
 
