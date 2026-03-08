@@ -10,10 +10,10 @@
 
 # 👨‍💻 About Me
 
-- 💻 Full Stack Developer  
-- 🚀 Building scalable web applications  
-- 🌱 Currently learning **Advanced Backend Development**  
-- ⚡ Passionate about coding & problem solving  
+ 💻 Full Stack Developer  
+ 🚀 Building scalable web applications  
+ 🌱 Currently learning **Advanced Backend Development**  
+ ⚡ Passionate about coding & problem solving  
 
 ---
 
