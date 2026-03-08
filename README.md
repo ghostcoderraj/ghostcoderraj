@@ -49,14 +49,6 @@ ___
 ![Snake animation](https://github.com/ghostcoderraj/ghostcoderraj/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
-## 🌐 3D Contribution Graph
-
-![3D Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghostcoderraj&theme=tokyo-night)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ghostcoderraj&show_icons=true&theme=tokyonight" />
-</p>
-
 
 ### 🌐 Connect With Me
 
