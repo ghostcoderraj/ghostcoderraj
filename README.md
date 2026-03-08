@@ -40,7 +40,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghostcoderraj&theme=tokyonight&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=ghostcoderraj&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
 ### 🐍 Snake Contribution Animation
