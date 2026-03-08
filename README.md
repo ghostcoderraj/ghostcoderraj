@@ -53,9 +53,7 @@
 
 <div align="center">
 
-<h2>🏆 GitHub Achievements</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ghostcoderraj&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghostcoderraj&theme=github_dark"/>
 
 </div>
 
