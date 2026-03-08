@@ -57,7 +57,7 @@
 ### 👀 Visitor Count
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ghostcoderaj&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ghostcoderraj&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://instagram.com">
+<a href="https://instagram.com/iamaditya_0030">
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram">
 </a>
 </p>
