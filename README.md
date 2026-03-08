@@ -27,7 +27,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ghostcoderaj&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ghostcoderraj&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghostcoderaj&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghostcoderraj&theme=tokyonight" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghostcoderaj&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghostcoderraj&theme=tokyo-night" />
 </p>
 
 ---
