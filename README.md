@@ -53,11 +53,12 @@
 
 <div align="center">
 
-<h2>🏆 GitHub Trophies</h2>
+<h2>🏆 GitHub Achievements</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ghostcoderraj&theme=onedark&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=ghostcoderraj&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 
 </div>
+
 ---
 
 # 🐍 Snake Contribution Animation
