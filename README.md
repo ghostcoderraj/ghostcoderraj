@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1512" height="775" alt="image" src="https://github.com/user-attachments/assets/1502d34f-a2c6-41af-9ef4-3acbe8f77435" /><div align="center">
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">🚀 Full Stack Developer | India</h3>
 
@@ -59,7 +59,7 @@
 
 ---
 
-# 🐍 Snake Contribution Animation
+# 🌧 Matrix Stream
 
 ![Snake animation](https://github.com/ghostcoderraj/ghostcoderraj/blob/output/github-contribution-grid-snake-dark.svg)
 
