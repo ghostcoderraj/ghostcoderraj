@@ -51,14 +51,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghostcoderraj&theme=github_dark"/>
-
-</div>
-
----
-
 # 🌧 Matrix Stream
 
 ![Snake animation](https://github.com/ghostcoderraj/ghostcoderraj/blob/output/github-contribution-grid-snake-dark.svg)
