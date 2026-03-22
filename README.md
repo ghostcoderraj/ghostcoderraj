@@ -114,7 +114,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://www.instagram.com/iamaditya_003">
+<a href="https://www.instagram.com/iamaditya_0030">
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram" />
 </a>
 
