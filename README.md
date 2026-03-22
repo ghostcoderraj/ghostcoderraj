@@ -49,36 +49,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghostcoderraj&theme=tokyo-night" />
 </p>
 
----
-
-# 🌧 Matrix Stream
-
-![Snake animation](https://github.com/ghostcoderraj/ghostcoderraj/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ghostcoderraj&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/nstwithadityaraj/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://www.instagram.com/iamaditya_0030?igsh=MWtyc281OWFzd2FtbQ%3D%3D&utm_source=qr">
-<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram" />
-</a>
-
-</p>
-
----
-
-⭐ **Thanks for visiting my GitHub profile!**
